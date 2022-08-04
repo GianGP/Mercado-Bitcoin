@@ -1,0 +1,26 @@
+CacheControl==0.12.11
+cachy==0.3.0
+certifi @ file:///C:/Users/giang/AppData/Local/pypoetry/Cache/artifacts/fe/1f/e8/a631f909acd7ae72f56088e99221858a77af4a988948d8077fe2424a7d/certifi-2021.5.30-py2.py3-none-any.whl
+charset-normalizer @ file:///C:/Users/giang/AppData/Local/pypoetry/Cache/artifacts/db/f2/b6/b70f92799d10272ffa637472c4fd0bfb79a2933b423f1375d5815bd776/charset_normalizer-2.0.3-py3-none-any.whl
+cleo==0.8.1
+clikit==0.6.2
+crashtest==0.3.1
+html5lib==1.1
+idna @ file:///C:/Users/giang/AppData/Local/pypoetry/Cache/artifacts/cb/7d/4a/2b602d236e65b881a8ec8c1d03b31dbf33c45b04d14caf2197877ddb00/idna-3.2-py3-none-any.whl
+keyring==23.7.0
+lockfile==0.12.2
+msgpack==1.0.4
+pastel==0.2.1
+pexpect==4.8.0
+pkginfo==1.8.3
+poetry==1.1.14
+poetry-core==1.0.8
+ptyprocess==0.7.0
+pylev==1.4.0
+pywin32-ctypes==0.2.0
+requests @ file:///C:/Users/giang/AppData/Local/pypoetry/Cache/artifacts/6a/b9/48/6be0d05d410682cd0b78969d6915808ff19194523f8b3c385de86b91e5/requests-2.26.0-py2.py3-none-any.whl
+requests-toolbelt==0.9.1
+shellingham==1.4.0
+tomlkit==0.11.1
+urllib3 @ file:///C:/Users/giang/AppData/Local/pypoetry/Cache/artifacts/8e/16/1e/83adf9b09866a639fd313399a9b5ae8e895cc688e1865a54b64ea97375/urllib3-1.26.6-py2.py3-none-any.whl
+webencodings==0.5.1
