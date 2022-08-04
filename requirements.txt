@@ -1,26 +1,81 @@
+argcomplete @ file:///C:/Users/giang/AppData/Local/pypoetry/Cache/artifacts/86/71/5f/6d340dd3699e8bddba74fee1bac8452cffa32787aa94005779d83e7a48/argcomplete-2.0.0-py2.py3-none-any.whl
+atomicwrites==1.4.1
+attrs @ file:///C:/Users/giang/AppData/Local/pypoetry/Cache/artifacts/b9/be/54/b0e6347a5b526e41f45aea10a61b5240586c74ee17e1d53c827b4d7288/attrs-22.1.0-py2.py3-none-any.whl
+backoff @ file:///C:/Users/giang/AppData/Local/pypoetry/Cache/artifacts/84/88/d2/ffc520b0974ac6201b27aedb3c4df689997b7a4ee7e6b1438e822cd385/backoff-2.1.2-py3-none-any.whl
+black @ file:///C:/Users/giang/AppData/Local/pypoetry/Cache/artifacts/fb/a6/45/0a25cda0ddf0c9449f9e1cbe10d49c46e6afa325b92348dcb523dedaff/black-22.6.0-cp310-cp310-win_amd64.whl
+boto3 @ file:///C:/Users/giang/AppData/Local/pypoetry/Cache/artifacts/36/76/cb/caa7ee4149bad43e05c9432d18e540e10325d458e73937f5d5fb75fe73/boto3-1.24.45-py3-none-any.whl
+botocore @ file:///C:/Users/giang/AppData/Local/pypoetry/Cache/artifacts/83/94/23/1b64814e26ed5cac4a2d47ff48d4602bfeda8c90d0f5ca19da88caa066/botocore-1.27.45-py3-none-any.whl
+build @ file:///C:/Users/giang/AppData/Local/pypoetry/Cache/artifacts/df/f8/de/a5f0b7392e1b527f2d7f6b195438aec652436d0017e807819a84ce6f41/build-0.8.0-py3-none-any.whl
 CacheControl==0.12.11
 cachy==0.3.0
-certifi @ file:///C:/Users/giang/AppData/Local/pypoetry/Cache/artifacts/fe/1f/e8/a631f909acd7ae72f56088e99221858a77af4a988948d8077fe2424a7d/certifi-2021.5.30-py2.py3-none-any.whl
-charset-normalizer @ file:///C:/Users/giang/AppData/Local/pypoetry/Cache/artifacts/db/f2/b6/b70f92799d10272ffa637472c4fd0bfb79a2933b423f1375d5815bd776/charset_normalizer-2.0.3-py3-none-any.whl
+certifi==2022.6.15
+cfgv @ file:///C:/Users/giang/AppData/Local/pypoetry/Cache/artifacts/35/10/a3/f57b5e70e8b5d5f31bccdd15df3781efda09dc1b44b473591e360c20e5/cfgv-3.3.1-py2.py3-none-any.whl
+cfn-flip @ file:///C:/Users/giang/AppData/Local/pypoetry/Cache/artifacts/5b/72/4b/6b35ea4b2baea7e0d2c2ab33fa363e93465325052e2d95a17b717a66ff/cfn_flip-1.3.0-py3-none-any.whl
+charset-normalizer==2.1.0
 cleo==0.8.1
+click @ file:///C:/Users/giang/AppData/Local/pypoetry/Cache/artifacts/63/f3/4c/2270b95f4d37b9ea73cd401abe68b6e9ede30380533cd4e7118a8e3aa3/click-8.1.3-py3-none-any.whl
 clikit==0.6.2
+colorama @ file:///C:/Users/giang/AppData/Local/pypoetry/Cache/artifacts/c2/16/90/5bd8e7ca5465caa39fb4befd804a6c8a0a281f8f290c3387c173072719/colorama-0.4.5-py2.py3-none-any.whl
 crashtest==0.3.1
+distlib==0.3.5
+durationpy==0.5
+filelock==3.7.1
+flake8 @ file:///C:/Users/giang/AppData/Local/pypoetry/Cache/artifacts/62/a7/26/e48f1b5cd33d20534deee3ede65fe06f72c5063597ad00e7888bc61b6e/flake8-5.0.4-py2.py3-none-any.whl
+future==0.18.2
+hjson @ file:///C:/Users/giang/AppData/Local/pypoetry/Cache/artifacts/b9/c2/d1/52fbec6c4bf204f6a132b4bfe4d83d68fec782a6008334c376afe04da4/hjson-3.0.2-py3-none-any.whl
 html5lib==1.1
-idna @ file:///C:/Users/giang/AppData/Local/pypoetry/Cache/artifacts/cb/7d/4a/2b602d236e65b881a8ec8c1d03b31dbf33c45b04d14caf2197877ddb00/idna-3.2-py3-none-any.whl
+identify @ file:///C:/Users/giang/AppData/Local/pypoetry/Cache/artifacts/7a/04/c8/506b3a3c44d68b468229efdac05501c7c4efd676ce22c3932390aff8e6/identify-2.5.3-py2.py3-none-any.whl
+idna==3.3
+iniconfig @ file:///C:/Users/giang/AppData/Local/pypoetry/Cache/artifacts/1d/67/0c/79706e7a41ef01be0b1a38aa3b4ddc9bd800a95ccd8d8dc7de4e090623/iniconfig-1.1.1-py2.py3-none-any.whl
+jmespath @ file:///C:/Users/giang/AppData/Local/pypoetry/Cache/artifacts/e7/7c/ff/9c04dafdaa19cf2d16034c86c3dbde17761845c50529a779eaddf59342/jmespath-1.0.1-py3-none-any.whl
+kappa==0.6.0
 keyring==23.7.0
 lockfile==0.12.2
+MarkupSafe @ file:///C:/Users/giang/AppData/Local/pypoetry/Cache/artifacts/63/4c/df/b6e3ad7ff5003118cde1283d2c91c6ebeba40e1c887d13aaa4d35f397c/MarkupSafe-2.1.1-cp310-cp310-win_amd64.whl
+mccabe @ file:///C:/Users/giang/AppData/Local/pypoetry/Cache/artifacts/6e/13/d3/27dd3d81419a63f54cee1343db4375f63135b517d83e52d7447875f739/mccabe-0.7.0-py2.py3-none-any.whl
 msgpack==1.0.4
+mypy-extensions @ file:///C:/Users/giang/AppData/Local/pypoetry/Cache/artifacts/2f/c6/09/3e1afdcb75322c65b786e63cd7e879b6be3db36dea78ca376db5483ae4/mypy_extensions-0.4.3-py2.py3-none-any.whl
+nodeenv @ file:///C:/Users/giang/AppData/Local/pypoetry/Cache/artifacts/f2/32/85/8e58087fd2e35edc6c633a3087db5b66d7d1f313aa2a9a6a8eeb5c22f0/nodeenv-1.7.0-py2.py3-none-any.whl
+packaging @ file:///C:/Users/giang/AppData/Local/pypoetry/Cache/artifacts/d3/1f/90/3f2473250ebd055fe7f0856810677783949fc0d2e5f25bbb4dc00ad0a9/packaging-21.3-py3-none-any.whl
 pastel==0.2.1
+pathspec @ file:///C:/Users/giang/AppData/Local/pypoetry/Cache/artifacts/48/a0/9f/f5128d9e11d591bca7a942dd80ec44f9b2de8294775c68e0b99beeef93/pathspec-0.9.0-py2.py3-none-any.whl
+pep517 @ file:///C:/Users/giang/AppData/Local/pypoetry/Cache/artifacts/b1/60/e4/566ef33150575bb0260fb9f1233afb6daf957e59872240a35e1af8fa66/pep517-0.13.0-py3-none-any.whl
 pexpect==4.8.0
+pip-tools @ file:///C:/Users/giang/AppData/Local/pypoetry/Cache/artifacts/58/af/fc/106b398bb3af693fed016b72b658a17b89af499b3f99d1752892a8c5b4/pip_tools-6.8.0-py3-none-any.whl
 pkginfo==1.8.3
+placebo==0.10.0
+platformdirs==2.5.2
+pluggy @ file:///C:/Users/giang/AppData/Local/pypoetry/Cache/artifacts/49/3e/55/309ec3705ba3309d817d531002c0a02f643d06c5d5a889ce43236130d5/pluggy-1.0.0-py2.py3-none-any.whl
 poetry==1.1.14
 poetry-core==1.0.8
+pre-commit @ file:///C:/Users/giang/AppData/Local/pypoetry/Cache/artifacts/1a/58/60/20b6ce392b5caffa7d8abd4d5b0dcc22027353e28b2d7533ae995a7fee/pre_commit-2.20.0-py2.py3-none-any.whl
 ptyprocess==0.7.0
+py @ file:///C:/Users/giang/AppData/Local/pypoetry/Cache/artifacts/71/fb/64/bfdc833c2055a893883f33deaac35ef2cbdd95d58031cfc69a630f32bf/py-1.11.0-py2.py3-none-any.whl
+pycodestyle @ file:///C:/Users/giang/AppData/Local/pypoetry/Cache/artifacts/5f/82/b7/55e8169e417019a01aec56ea9eaf01d969188a4c827c240a440a3209bf/pycodestyle-2.9.1-py2.py3-none-any.whl
+pyflakes @ file:///C:/Users/giang/AppData/Local/pypoetry/Cache/artifacts/e7/19/53/bae1a38831f54ce33cffad8f06e90b911ed4beb5f2e985bc465751a1a1/pyflakes-2.5.0-py2.py3-none-any.whl
 pylev==1.4.0
+pynamodb @ file:///C:/Users/giang/AppData/Local/pypoetry/Cache/artifacts/ec/d2/a1/a786ebbbd4b6b8b43af0c1bd0b05926dd50b5c3bfb8c440b26bb9f8177/pynamodb-5.2.1-py3-none-any.whl
+pyparsing @ file:///C:/Users/giang/AppData/Local/pypoetry/Cache/artifacts/e1/09/c0/6a6df3ef412eb19fcda1b353ea54e3b48f9c518348fadd0967a962cbb6/pyparsing-3.0.9-py3-none-any.whl
+pytest @ file:///C:/Users/giang/AppData/Local/pypoetry/Cache/artifacts/81/e7/80/83cc65ea38ab41a59121aea7e519147cea204e1eaf989149cc12b3b342/pytest-7.1.2-py3-none-any.whl
+python-dateutil @ file:///C:/Users/giang/AppData/Local/pypoetry/Cache/artifacts/39/9b/3b/576da7c854551d780528d75132c98882925e44de0aecf8a31a4bea379c/python_dateutil-2.8.2-py2.py3-none-any.whl
+python-slugify @ file:///C:/Users/giang/AppData/Local/pypoetry/Cache/artifacts/65/40/40/062620dddf89e7e2a8edc459623209bb3bb93b942faace1c6a0240336d/python_slugify-6.1.2-py2.py3-none-any.whl
 pywin32-ctypes==0.2.0
-requests @ file:///C:/Users/giang/AppData/Local/pypoetry/Cache/artifacts/6a/b9/48/6be0d05d410682cd0b78969d6915808ff19194523f8b3c385de86b91e5/requests-2.26.0-py2.py3-none-any.whl
+PyYAML @ file:///C:/Users/giang/AppData/Local/pypoetry/Cache/artifacts/35/4d/45/b2142abd2ac771fdc795573de08522db0ff795d8e0a5c06f8baf9833e9/PyYAML-6.0-cp310-cp310-win_amd64.whl
+ratelimit==2.2.1
+requests==2.28.1
 requests-toolbelt==0.9.1
+s3transfer @ file:///C:/Users/giang/AppData/Local/pypoetry/Cache/artifacts/0e/24/22/7464d9dae2df7bfc453292d5de7a9de83533dcd0a60300e2741625a7c8/s3transfer-0.6.0-py3-none-any.whl
 shellingham==1.4.0
+six @ file:///C:/Users/giang/AppData/Local/pypoetry/Cache/artifacts/89/b2/f8/fd92b6d5daa0f8889429b2fc67ec21eedc5cae5d531ee2853828ced6c7/six-1.16.0-py2.py3-none-any.whl
+text-unidecode @ file:///C:/Users/giang/AppData/Local/pypoetry/Cache/artifacts/34/ff/90/dfdc177dbd51133d449192d5f6c8bd34ced8d4c3ce8f648a5cbcacd517/text_unidecode-1.3-py2.py3-none-any.whl
+toml @ file:///C:/Users/giang/AppData/Local/pypoetry/Cache/artifacts/51/ac/24/674da558495229c57c3d2333cb23e24aac7aadf723ced29e2cc41a9e6e/toml-0.10.2-py2.py3-none-any.whl
+tomli @ file:///C:/Users/giang/AppData/Local/pypoetry/Cache/artifacts/62/12/b6/6db9ebb9c8e1a6c5aa8a92ae73098d8119816b5e8507490916621bc305/tomli-2.0.1-py3-none-any.whl
 tomlkit==0.11.1
-urllib3 @ file:///C:/Users/giang/AppData/Local/pypoetry/Cache/artifacts/8e/16/1e/83adf9b09866a639fd313399a9b5ae8e895cc688e1865a54b64ea97375/urllib3-1.26.6-py2.py3-none-any.whl
+tqdm @ file:///C:/Users/giang/AppData/Local/pypoetry/Cache/artifacts/9c/70/8c/d9fd60c1049cc4dba00815d66d598e9d5f265d4d59489e074827e331a9/tqdm-4.64.0-py2.py3-none-any.whl
+troposphere @ file:///C:/Users/giang/AppData/Local/pypoetry/Cache/artifacts/7d/43/d6/da221885d45656399c668a191d671d46350ef453a0abddebdd853dadfc/troposphere-4.0.2-py3-none-any.whl
+urllib3==1.26.11
+virtualenv==20.16.2
 webencodings==0.5.1
+Werkzeug @ file:///C:/Users/giang/AppData/Local/pypoetry/Cache/artifacts/99/c7/f8/9b23ae3a2231079dcebcf384058f17bbcd70415d23e833792d11bf97c6/Werkzeug-2.2.1-py3-none-any.whl
+wsgi-request-logger==0.4.6
+zappa @ file:///C:/Users/giang/AppData/Local/pypoetry/Cache/artifacts/17/ae/e7/91e532c9ed650724238b05ef690c7606639fc06cc4e01072cb9be49fa8/zappa-0.54.2-py3-none-any.whl
